@@ -1,0 +1,58 @@
+#root{
+  background-color: #fcf3f7;
+}
+body{
+   background-color: #fcf3f7;
+}
+.footer-image {
+  background-image: url("https://i.ibb.co/jhcZ4Pg/hair.jpg");
+  height: 100%;
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 30px;
+}
+.footer-us h1 {
+  color: white;
+}
+.footer-us {
+  color: white;
+}
+.footer-container h2 {
+  color: white;
+}
+
+.footer-container {
+  color: white;
+}
+.footer-container li:hover {
+  color: rgb(24, 102, 63);
+}
+.line {
+  margin: 10px;
+  width: 90%;
+}
+.footer-container li {
+  list-style-type: none;
+}
+.footer-container ul {
+  padding: 0;
+}
+.footer-link {
+  text-decoration: none;
+  color: white;
+}
+.footer-link:hover {
+  color: rgb(84, 161, 123);
+}
+.footer-menu{
+  color: #f7f7f7;
+}
+@media screen and (max-width: 480px) {
+  .subscribe-image{
+display: none;
+  }
+}

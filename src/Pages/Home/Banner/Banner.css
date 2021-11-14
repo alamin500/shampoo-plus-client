@@ -1,0 +1,16 @@
+.banner-image {
+  background-image: url("https://i.ibb.co/LZgdYZ0/Cosmetic-bottles-mockup-shampoo-and-conditioner-beauty-cosmetics-product-for-hair-care-on-pink-backg.jpg");
+  height: 600px;
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 30px;
+}
+.banner-image h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
