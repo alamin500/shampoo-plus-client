@@ -20,3 +20,6 @@ Our Website: https://shampoo-plus-12.web.app/
 - Better Audit controls and policy compliance.
 - Reduces the work of documentation.
 - In listing the ingredients of a product, the percentage of each ingredient is listed in.
+
+
+  Update-22-9-2022
